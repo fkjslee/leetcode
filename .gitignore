@@ -3,3 +3,7 @@
 */test/
 */cmake-build-debug/
 */CMakeLists.txt
+
+# codeblocks
+*.exe
+*.o
